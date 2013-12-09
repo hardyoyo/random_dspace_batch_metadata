@@ -18,7 +18,7 @@ totalRows = 100
 dc_language = 'en'
 dc_rights = ''
 dc_subject = ''
-dc_type = ''
+dc_type = 'text'
 id = '+'
 collection = '10673/2'
 
