@@ -36,6 +36,7 @@ end
 connections = [" of the ", " in the ", " in ", " of "]
 
 CSV.open("random_metadata.csv", "w") do |csv|
+  csv << ['id', 'collection', 'dc.creator', 'dc.date.created', 'dc.date.issued', 'dc.description.abstract', 'dc.language', 'dc.rights', 'dc.subject', 'dc.title', 'dc.type']
 
   for i in (1..totalRows)
     dc_creator = "#{Random.lastname}, #{Random.firstname} #{Random.initial}"
