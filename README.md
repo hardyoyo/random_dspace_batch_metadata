@@ -31,6 +31,11 @@ The Shebang line uses env, so this script should "just run" in any Unix-like env
 
 Enjoy!
 
+<h2>Similar projects</h2>
+Check out these other tools that do similar things:
+ * [CWilper's GutenProc](https://github.com/cwilper/gutenproc) - fill your dev DSpace instance with the contents of Project Gutenberg
+ * [CWilper's DSOgen](https://github.com/cwilper/dsogen) - more than just random metadata for DSpace!
+
 <h2>License</h2>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
