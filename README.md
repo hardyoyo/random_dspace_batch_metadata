@@ -33,7 +33,9 @@ Enjoy!
 
 <h2>Similar projects</h2>
 Check out these other tools that do similar things:
+
  * [CWilper's GutenProc](https://github.com/cwilper/gutenproc) - fill your dev DSpace instance with the contents of Project Gutenberg
+ 
  * [CWilper's DSOgen](https://github.com/cwilper/dsogen) - more than just random metadata for DSpace!
 
 <h2>License</h2>
